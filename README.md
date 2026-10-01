@@ -1,5 +1,5 @@
 
-# ShopEase — React E-commerce Assessment
+# KazamaStore — React E-commerce Assessment
 
 A responsive mini e-commerce application built using React, Vite,
 React Hooks, React Router, and the Fake Store API.
